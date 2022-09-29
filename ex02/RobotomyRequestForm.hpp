@@ -6,13 +6,13 @@
 /*   By: aperez-b <aperez-b@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 18:14:22 by aperez-b          #+#    #+#             */
-/*   Updated: 2022/09/29 19:47:28 by aperez-b         ###   ########.fr       */
+/*   Updated: 2022/09/29 21:55:27 by aperez-b         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #pragma once
 
-#include <random>
+#include <cstdlib>
 #include "Form.hpp"
 
 class Bureaucrat;
